@@ -1,4 +1,4 @@
-# Ayush-Mishra
+
 # 👋 Hi, I'm Ayush Mishra!
 
 🎯 **Aspiring Data Scientist**  
