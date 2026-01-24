@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ayush Mishra!
 
 🎯 **Aspiring Data Scientist**  
-💻 Skilled in **Python, C++, and C**  
+💻 Skilled in **Python, C++, SQL and C**  
 📚 Currently exploring **Machine Learning, Data Analysis & AI**  
 🚀 Passionate about building projects that solve real-world problems
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🔍 I love working with **data, algorithms, and intelligent systems**  
-- 📊 Learning **Pandas, NumPy, Scikit-Learn, SQL, Data Visualization**  
+- 📊 Learning **Pandas, NumPy, Scikit-Learn, Data Visualization**  
 - 🤖 Interested in **AI-driven applications & automation**  
 - 💡 Always open to learning and contributing to open-source
 
@@ -20,7 +20,7 @@
 ### **Programming Languages**
 - 🐍 Python  
 - 💠 C++  
-- 🔰 C Language  
+- 🔰 C Language
 
 ### **Data Science & Tools**
 - 📊 Pandas, NumPy  
